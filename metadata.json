@@ -1,0 +1,6 @@
+{
+  "name": "LINAX - Futuristic Liquid Glass Music Studio",
+  "description": "High-fidelity futuristic offline music player & multi-device synchronized audio host built with liquid glass UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
